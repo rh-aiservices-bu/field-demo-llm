@@ -7,7 +7,7 @@
 ### 🛠️ Installation:
 1. Clone the repository:
 ```
-git clone [<URL-of-your-repo>](https://github.com/avijra/redhatai.git)
+git clone https://github.com/rh-aiservices-bu/llm-rhods-demo
 ```
 
 3. In the root folder, create a new directory:
